@@ -2,4 +2,4 @@ streamlit==0.90.0
 PyPDF2==1.26.0
 langchain==0.1.0
 python-dotenv==0.19.2
-FAISS
+
